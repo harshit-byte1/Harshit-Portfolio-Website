@@ -1,4 +1,4 @@
-# 🌐 Developer Portfolio – HARSHIT DHINGRA
+# 🌐 Portfolio Website – HARSHIT DHINGRA
 
 Welcome to my personal developer portfolio – a responsive, modern website built with **React**, **Vite**, and **Tailwind CSS**, deployed using **Vercel**. This project showcases my latest work, technical skills, and live project demos.
 
