@@ -1,8 +1,8 @@
 import React from "react";
 
-// Local logo imports
-import foucaultLogo from '../../assets/work_logo/fd_logo.jpeg';
-import affinityLogo from '../../assets/work_logo/affinity_logo.jpeg';
+import foucaultLogo from '../../assets/work_logo/fd logo.jpeg';
+import affinityLogo from '../../assets/work_logo/affinity logo.jpeg';
+
 
 // Local experience data
 const experiences = [
