@@ -6,7 +6,7 @@ import powerbiLogo from './assets/tech_logo/powerbi.webp';
 import tableauLogo from './assets/tech_logo/tableau1.png';
 import jupyterLogo from './assets/tech_logo/jupyter.svg';
 import colabLogo from './assets/tech_logo/colab.png';
-import houseLogo from './assets/work_logo/chatgpt house logo.png';
+import houseLogo from './assets/work_logo/chatGPT_IMAGE.png';
 
 import pythonLogo from './assets/tech_logo/python.png';
 import flaskLogo from './assets/tech_logo/flask.png';
