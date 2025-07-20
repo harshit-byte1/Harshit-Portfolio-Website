@@ -1,6 +1,6 @@
 import React from "react";
 // Use relative paths from the component file
-import flindersLogo from '../../assets/education_logo/flinders_logo.png';
+import flindersLogo from '../../assets/education_logo/flinders logo.png';
 import davLogo from '../../assets/education_logo/dav.png';
 
 
