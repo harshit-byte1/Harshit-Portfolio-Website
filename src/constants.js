@@ -1,39 +1,39 @@
 // Skills Section Logos
-import htmlLogo from '../../assets/tech_logo/html.png';
-import rLogo from '../../assets/tech_logo/r.png';
-import excelLogo from '../../assets/tech_logo/excel.png';
-import powerbiLogo from '../../assets/tech_logo/powerbi.webp';
-import tableauLogo from '../../assets/tech_logo/tableau1.png';
-import jupyterLogo from '../../assets/tech_logo/jupyter.svg';
-import colabLogo from '../../assets/tech_logo/colab.png';
-import houseLogo from '../../assets/work_logo/chatgpt house logo.png';
+import htmlLogo from './assets/tech_logo/html.png';
+import rLogo from './assets/tech_logo/r.png';
+import excelLogo from './assets/tech_logo/excel.png';
+import powerbiLogo from './assets/tech_logo/powerbi.webp';
+import tableauLogo from './assets/tech_logo/tableau1.png';
+import jupyterLogo from './assets/tech_logo/jupyter.svg';
+import colabLogo from './assets/tech_logo/colab.png';
+import houseLogo from './assets/work_logo/chatgpt house logo.png';
 
-import pythonLogo from '../../assets/tech_logo/python.png';
-import flaskLogo from '../../assets/tech_logo/flask.png';
-import nlpLogo from '../../assets/tech_logo/nlp1.png';
-import mlLogo from '../../assets/tech_logo/ml1.png';
-import genaiLogo from '../../assets/tech_logo/ai.png';
-import dlLogo from '../../assets/tech_logo/dl.png';
-import nnLogo from '../../assets/tech_logo/nn1.png';
+import pythonLogo from './assets/tech_logo/python.png';
+import flaskLogo from './assets/tech_logo/flask.png';
+import nlpLogo from './assets/tech_logo/nlp1.png';
+import mlLogo from './assets/tech_logo/ml1.png';
+import genaiLogo from './assets/tech_logo/ai.png';
+import dlLogo from './assets/tech_logo/dl.png';
+import nnLogo from './assets/tech_logo/nn1.png';
 
-import cssLogo from '../../assets/tech_logo/css.png';
-import jsLogo from '../../assets/tech_logo/javascript.png';
-import reactLogo from '../../assets/tech_logo/reactjs.png';
-import nodeLogo from '../../assets/tech_logo/nodejs.png';
+import cssLogo from './assets/tech_logo/css.png';
+import jsLogo from './assets/tech_logo/javascript.png';
+import reactLogo from './assets/tech_logo/reactjs.png';
+import nodeLogo from './assets/tech_logo/nodejs.png';
 
-import mysqlLogo from '../../assets/tech_logo/mysql.png';
-import mongoLogo from '../../assets/tech_logo/mongodb.png';
-import bootstrapLogo from '../../assets/tech_logo/bootstrap.png';
+import mysqlLogo from './assets/tech_logo/mysql.png';
+import mongoLogo from './assets/tech_logo/mongodb.png';
+import bootstrapLogo from './assets/tech_logo/bootstrap.png';
 
-import cLogo from '../../assets/tech_logo/c.png';
-import cppLogo from '../../assets/tech_logo/cpp.png';
-import javaLogo from '../../assets/tech_logo/java.png';
+import cLogo from './assets/tech_logo/c.png';
+import cppLogo from './assets/tech_logo/cpp.png';
+import javaLogo from './assets/tech_logo/java.png';
 
-import gitLogo from '../../assets/tech_logo/git.png';
-import githubLogo from '../../assets/tech_logo/github.png';
-import vscodeLogo from '../../assets/tech_logo/vscode.png';
-import figmaLogo from '../../assets/tech_logo/figma.png';
-import mysqlworkbenchLogo from '../../assets/tech_logo/mysql.png';
+import gitLogo from './assets/tech_logo/git.png';
+import githubLogo from './assets/tech_logo/github.png';
+import vscodeLogo from './assets/tech_logo/vscode.png';
+import figmaLogo from './assets/tech_logo/figma.png';
+import mysqlworkbenchLogo from './assets/tech_logo/mysql.png';
 
 
 // Skills Info Section
