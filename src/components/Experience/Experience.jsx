@@ -1,7 +1,7 @@
 import React from "react";
 
-import foucaultLogo from '../../assets/work_logo/fd logo.jpeg';
-import affinityLogo from '../../assets/work_logo/affinity logo.jpeg';
+import foucaultLogo from '../../assets/work_logo/fd_logo.jpeg';
+import affinityLogo from '../../assets/work_logo/affinity_logo.jpeg';
 
 
 // Local experience data
