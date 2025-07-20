@@ -1,8 +1,7 @@
 import React from "react";
-
-// You can update these logos or paths if needed
-import flindersLogo from "/Users/harshitdhingra/Documents/GitHub/DataScience/PortfolioWebsite1/Harshit-Portfolio-Website/src/assets/education_logo/flinders logo.png";
-import davLogo from "/Users/harshitdhingra/Documents/GitHub/DataScience/PortfolioWebsite1/Harshit-Portfolio-Website/src/assets/education_logo/dav.png";
+// Use relative paths from the component file
+import flindersLogo from '../../assets/education_logo/flinders_logo.png';
+import davLogo from '../../assets/education_logo/dav.png';
 
 
 // Local array instead of importing from `constants.js`
